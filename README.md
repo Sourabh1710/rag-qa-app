@@ -11,7 +11,7 @@
 > **What if you could have a conversation with any document?**  
 > An end-to-end RAG pipeline that retrieves answers directly from your uploaded PDFs — grounded in source text, with citations, and zero hallucination. No fine-tuning. No retraining. Upload and ask.
 
-[**Live Demo →**](https://sourabhsonker-rag-app.streamlit.app/) &nbsp;|&nbsp; [**GitHub →**](https://github.com/Sourabh1710/rag-qa-app)
+[**Streamlit App Link**](https://sourabhsonker-rag-app.streamlit.app/) &nbsp;
 
 ---
 
