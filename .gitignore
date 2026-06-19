@@ -1,0 +1,28 @@
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# HuggingFace model cache (large, re-downloadable)
+# Uncomment below if you want to exclude it:
+# .cache/
+
+# FAISS index files (re-buildable from documents)
+faiss_index/
+*.faiss
+*.pkl
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
